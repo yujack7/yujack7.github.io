@@ -1,0 +1,68 @@
+@charset "gb2312";
+div,form,img,ul,ol,li,dl,dt,dd,h1{margin:0;padding:0;border:0;}
+ul{list-style-type:none;}a{color:#0000CC;text-decoration:none;outline:none;}
+
+#shopcar_add_body{width:960px; clear:both; margin:0 auto; font-size:12px;margin-top:5px;}
+.shopcar_add_luntan{clear:both; width:960px; margin:0 auto;}
+.shopcar_add_luntan_t{ clear:both; height:29px;background:#F5DCA3;}
+.shopcar_add_luntan_m{ clear:both; border:3px solid #F4DCA2; border-top:none; border-bottom:none; padding:0px; /*margin-top:-20px;*/ background-color:#fff!important;}
+.shopcar_add_luntan_m{color:#000 !important;}
+.shopcar_add_luntan_b{ clear:both;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdsc1_03.jpg) repeat-x bottom;height:6px;}
+.shopcar_add_luntan_t1{height:29px; width:8px; float:left; display:inline;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat 0px -94px;}
+.shopcar_add_luntan_t3{height:29px; width:400px;float:left; display:inline;line-height:29px; font-size:14px; font-weight:bold;}
+.shopcar_add_luntan_t2{height:29px; width:9px; float:right; display:inline;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -7px -94px;}
+.shopcar_add_luntan_b1{height:6px; width:6px; float:left; display:inline;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat left bottom;}
+.shopcar_add_luntan_b2{height:6px; width:7px; float:right; display:inline;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -9px bottom;}
+
+.shopcar_add_shoppingt{ height:36px; clear:both;margin-bottom:5px;}
+.shopcar_add_shoppingt img{ display:block; float:left; display:inline;}
+.shopcar_add_shopping_t1{width:550px;float:left;display:inline;background:url(http://img.ev123.com/pic/vip_sc/other307/shopping_03.gif) no-repeat 0px 5px;padding:5px 0px 0px 0px;margin-left:10px;}
+.shopcar_add_shopping_t1 ul li{ float:left; display:inline; line-height:29px; float:left; margin:0px;}
+.shopcar_add_shopping_t1 ul li a{width:163px; height:29px; display:block;color:#444444; text-align:center; font-weight:bold;}
+.shopcar_add_shopping_t1 ul li.shopcar_add_gouwu1{height:29px;font-weight:bold;width:121px;text-align:center;color:#fff;/*margin-left:-40px;*/}
+.shopcar_add_shopping_t1 ul li.shopcar_add_gouwu2{height:29px;font-weight:bold;width:161px;text-align:center;color:#444444;}
+.shopcar_add_shopping_t1 ul li.shopcar_add_gouwu3{height:29px;font-weight:bold;width:141px;text-align:center;color:#444444;}
+.shopcar_add_shopping_t1 ul li.shopcar_add_gouwu1 a{color:#fff;width:121px;text-align:center;}
+
+.shopcar_add_luntan_m3{ clear:both; width:868px; margin:20px auto; height:80px; background-color:#FFFDED; border:1px solid #EED6A2; padding:10px;}
+.shopcar_add_luntan_m3 ul li{ line-height:24px; color:#444444;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shoppingx1{ font-weight:bold; font-size:14px;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shoppingx1 a{ color:#005EA7;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shopping3{color:#005EA7;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shopping3 span{ color:#F60204; font-weight:bold;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shopping3 a{ color:#A02600; width:65px; height:20px; display:block; float:left;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat 0px -74px transparent; padding-left:15px; line-height:20px;}
+.shopcar_add_luntan_m3 ul li.shopcar_add_shopping3 .zi{ float:left; display:inline; padding-right:10px;}
+
+.shopcar_add_shopping1{width:890px; margin:0 auto; height:40px; padding-top:25px;}
+.shopcar_add_shopping2{width:890px; margin:0 auto;padding-top:20px;}
+.shopcar_add_shopping2 table{ background-color:#AACDED;}
+.shopcar_add_shopping2 table tr td{ background-color:#EBF4FB;text-align:center;}
+.shopcar_add_shopping2 table tr.shopcar_add_one1 td{ height:35px; line-height:35px; }
+.shopcar_add_shopping2 table tr.shopcar_add_one2 td{ height:35px;line-height:60px; background-color:#fff;}
+.shopcar_add_shopping2 table tr.shopcar_add_one3 td{height:45px;text-align:right;line-height:20px; padding-right:5px;}
+.shopcar_add_shopping2 table tr.shopcar_add_one3 td span{ color:#444444; font-size:14px;  font-weight:bold;}
+.shopcar_add_shopping2 table tr.shopcar_add_one2 td.shopcar_add_spmc1{ line-height:18px;text-align:left;}
+.shopcar_add_shopping2 table tr.shopcar_add_one2 td.shopcar_add_spmc1 span{ color:#005EA7;}
+.shopcar_add_shopping2 table tr.shopcar_add_one2 td.shopcar_add_spmc1 img{ border:1px solid #DDDDDD; display:block; float:left; display:inline; margin:1px 7px 1px 3px;}
+
+.shopcar_add_shopping1 ul li{ float:left; display:inline; padding-top:10px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc1{ padding-left:12px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc1 a{ width:50px; height:21px; text-align:center; line-height:21px; display:block;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -80px -74px; color:#000;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc3,.shopcar_add_shopping1 ul li.jc4{ padding-left:25px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc3 span{ width:12px; height:10px; display:block; float:left; display:inline; background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -23px -116px; margin:5px 5px 0px 0px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc3 a{ width:60px; height:21px; line-height:21px; display:block; float:left; display:inline;color:#000;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc4 span{ width:14px; height:14px; display:block; float:left; display:inline; background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -35px -115px;margin:2px 5px 0px 0px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc4 a{ width:60px; height:21px; line-height:21px; display:block; float:left; display:inline;color:#000;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc6,.shopcar_add_shopping1 ul li.jc5{ padding-top:0px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc5{ padding:0px;margin-left:662px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc6{ padding-left:5px; width:95px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc5 a{ width:108px; height:37px;display:block;color:#000;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat 0px 0px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc5 a:hover{ width:108px; height:37px;display:block;color:#000;/*background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat 0px -37px;*/}
+
+.shopcar_add_shopping1 ul li.shopcar_add_jc6 a{ width:95px; height:37px; display:block;color:#000;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -115px 0px;}
+.shopcar_add_shopping1 ul li.shopcar_add_jc6 a:hover{ width:95px; height:37px;display:block;color:#000;background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -115px -37px;}
+
+.shopcar_add_jiesuan_but{width:108px; height:37px; background:url(http://img.ev123.com/pic/vip_sc/other307/sdcdscd1.png) no-repeat -115px 0px; border:none; cursor:pointer;}
+
+
+.shopcar_add_mp10{ margin-top:10px;}
